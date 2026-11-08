@@ -1,0 +1,12 @@
+{
+  "format": "unspot-navpack-index/1",
+  "domain": "goldapple",
+  "packs": [
+    {
+      "packId": "goldapple-germes",
+      "revision": 3,
+      "file": "goldapple-germes.json",
+      "sha256": "d08ec5d383d296fa1001b6ba9b72b820ad1cd5f0471623c0c27590e2c5894361"
+    }
+  ]
+}

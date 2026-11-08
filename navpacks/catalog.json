@@ -1,0 +1,86 @@
+{
+  "format": "unspot-navpack-catalog/1",
+  "builtAt": "2026-11-08T05:52:37.530Z",
+  "clients": [
+    {
+      "domain": "goldapple",
+      "packs": [
+        {
+          "packId": "goldapple-germes",
+          "revision": 3,
+          "builtAt": "2026-11-08T05:52:37.519Z",
+          "sha256": "d08ec5d383d296fa1001b6ba9b72b820ad1cd5f0471623c0c27590e2c5894361",
+          "buildings": [
+            {
+              "unspotId": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+              "name": "Сакко и Ванцетти, 62 ТЦ «Гермес»"
+            }
+          ],
+          "floors": [
+            {
+              "unspotId": "16299ed3-9584-4c8a-970a-d484df48a1f7",
+              "name": "Гермес 1 этаж",
+              "level": 1,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            },
+            {
+              "unspotId": "5e76aa35-49c3-4ddb-9bff-229408ce6e40",
+              "name": "Гермес 2 этаж",
+              "level": 2,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            },
+            {
+              "unspotId": "e1c9d3e9-da52-42e9-afb2-94e14180cd44",
+              "name": "Гермес 3 этаж",
+              "level": 3,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            },
+            {
+              "unspotId": "fed4c4f9-7130-4644-8f07-0e1e37bb8cf1",
+              "name": "Гермес 4 этаж",
+              "level": 4,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            },
+            {
+              "unspotId": "6e62d016-ce8a-4de7-b45b-d158ae71f2be",
+              "name": "Гермес 5 этаж",
+              "level": 5,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            },
+            {
+              "unspotId": "dcd73caf-5c11-480f-bd22-dc8ec3925c6b",
+              "name": "Гермес 6 этаж",
+              "level": 6,
+              "issues": {
+                "errors": 0,
+                "warnings": 0
+              }
+            }
+          ],
+          "displays": [
+            {
+              "id": "germes-1-turnstiles",
+              "label": "Инфодисплей у турникетов",
+              "floor": "Гермес 1 этаж"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

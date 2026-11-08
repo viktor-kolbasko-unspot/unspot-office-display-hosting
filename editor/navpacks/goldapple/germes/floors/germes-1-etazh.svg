@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3611" height="3838" viewBox="0 0 3611 3838" data-unspot-routes="1" data-level="1" data-snap="6" data-meters-per-px="0.0150">
+  <!-- Гермес 1 этаж: схема владельца от 06.11.2026, выровнена: линии по осям, в холле у входа — по сетке 45°; ветки через стены в пустые помещения убраны -->
+  <g id="routes" fill="none" stroke="#1e88e5" stroke-width="6" stroke-linecap="round">
+    <polyline id="g1-e5" points="3071,1297 3191,1297 3191,1123.3 2833,1123.3 2833,1019"/>
+    <polyline id="g1-e6" points="1467,1141 751,1141 751,1323"/>
+    
+    <polyline id="g1-e8" points="2213,1627 2407,1627"/>
+    <polyline id="g1-e9" points="2213,1627 2019,1627"/>
+    <polyline id="g1-e10" points="2213,1627 2213,2179"/>
+    <polyline id="g1-e11" points="2407,1627 2407,1978.3 2407,2179 2603,2179"/>
+    <polyline id="g1-e12" points="2407,1627 2465,1627 2465,1086.6"/>
+    
+    
+    
+    
+    <polyline id="g1-e18" points="2261,949 2261,294.3"/>
+    
+    <polyline id="g1-e20" points="2261,949 2049,949"/>
+    <polyline id="g1-e21" points="2261,949 2343,949"/>
+    
+    <polyline id="g1-e23" points="2833,1019 2809.6,875.8 2918.2,644.5 2806.1,597.8"/>
+    
+    <polyline id="g1-e25" points="520.6,2457 603.2,2457 702.7,2498.4"/>
+    
+    
+    
+    
+    
+    <polyline id="g1-e34" points="2603,2179 2603,1978.3 2603,1627 2799,1627"/>
+    
+    
+    <polyline id="g1-e37" points="2799,1627 2799,1665"/>
+    
+    
+    <polyline id="g1-e40" points="2213,2179 2407,2179"/>
+    <polyline id="g1-e41" points="2213,2179 2016.8,2179 1833.1,2179.1"/>
+    <polyline id="g1-e42" points="265,1039 680.1,1039"/>
+    <polyline id="g1-e43" points="1804.4,1281.3 1804.4,949"/>
+    <polyline id="g1-e44" points="1804.4,949 1945,949"/>
+    <polyline id="g1-e45" points="1804.4,949 1571,949"/>
+    <polyline id="g1-e46" points="2895,1873 2895,1665"/>
+    <polyline id="g1-e48" points="2895,1665 2799,1665"/>
+    <polyline id="g1-e49" points="2799,2181 2799,1665"/>
+    
+    <polyline id="g1-e51" points="1078.9,1897 1167,1897 1167,1997"/>
+    <polyline id="g1-e52" points="1078.9,1897 953,1897 953,1997 1167,1997"/>
+    
+    <polyline id="g1-e54" points="1167,1773 919,1773"/>
+    
+    <polyline id="g1-e57" points="2343,1483 2343,1267"/>
+    <polyline id="g1-e58" points="2343,1267 2173,1267"/>
+    <polyline id="g1-e59" points="2343,1267 2343,949"/>
+    
+    
+    <polyline id="g1-e62" points="680.1,1039 680.1,949 1571,949"/>
+    <polyline id="g1-e63" points="2465,294.3 2465,949 2465,1086.6"/>
+    <polyline id="g1-e64" points="2465,1086.6 2599,1086.6"/>
+    
+    <polyline id="g1-e66" points="1442.8,1507 899,1507"/>
+    <polyline id="g1-e67" points="899,1507 899,1605 1340.7,1605 1340.7,1627 1459,1627 1633,1627"/>
+    <polyline id="g1-e68" points="899,1507 811,1507 811,1323 1465,1323"/>
+    
+    <polyline id="g1-e70" points="2833,1019 2720.4,1019 2599,1086.6"/>
+    <polyline id="g1-e71" points="2173,1267 2173,1505 2007,1505"/>
+    
+    <polyline id="g1-e73" points="2173,1267 2173,1055"/>
+    <polyline id="g1-e74" points="1459,2043 1459,1627"/>
+    <polyline id="g1-e75" points="1459,2043 1633,2043 1633,1627"/>
+    <polyline id="g1-e76" points="1459,2043 1341,2043"/>
+    <polyline id="g1-e79" points="2019,1627 2019,1955 1833.1,1955"/>
+    <polyline id="g1-e84" points="1633,1627 1833.1,1627 2019,1627"/>
+    <polyline id="g1-e85" points="2599,511 2589.8,978.9 2577.1,1037.2 2599,1086.6"/>
+    
+    <polyline id="g1-e87" points="1341,2137 1341,2181 1833.1,2179.1"/>
+    <polyline id="g1-e88" points="1571,1517 1571,949"/>
+    <polyline id="g1-e89" points="1341,2043 1340.7,1627"/>
+    <polyline id="g1-e90" points="1341,2043 1341,2137"/>
+    
+    <polyline id="g1-e92" points="1945,949 2049,949"/>
+    <polyline id="g1-e93" points="1945,949 1945,871"/>
+    
+    <polyline id="g1-e95" points="540.3,3017 775.9,2781.4"/>
+    <polyline id="g1-e96" points="540.3,3017 763.7,3240.3"/>
+    
+    
+    <polyline id="g1-e97" points="2049,378.4 2049,949"/>
+    
+    <polyline id="g1-e99" points="2623.9,2277 1994.2,2277 1994.2,2493 1513.3,2493 1147,2493 1147,2137 1167,2137 1341,2137"/>
+    
+    <polyline id="g1-e102" points="775.9,2781.4 1064.3,2493 1147,2493"/>
+    
+    <polyline id="g1-e104" points="702.7,2342.1 702.7,2498.4"/>
+    
+  <polyline id="g1-mmw4xbi9jd57" points="811,1323 751,1323"/><polyline id="g1-mmw4xbxhowjr" points="680.1,1141 751,1141"/><polyline id="g1-mmw4xcvshu7p" points="680.1,1141 680.1,1039"/><polyline id="g1-mmw4xgexpq67" points="2343,949 2465,949"/><polyline id="g1-mmw4xipty29s" points="2603,1627 2465,1627"/><polyline id="g1-mmw4xkqwimhr" points="763.7,3240.3 1001.2,3002.8 1513.3,2493"/><polyline id="g1-mmw4ymcssn7q" points="2577.1,1037.2 2589.8,978.9"/><polyline id="g1-mmw4ypbhlbo2" points="1167,1897 1167,1773"/><polyline id="g1-mmw4yr5s11bo" points="1167,2137 1167,1997"/><polyline id="g1-mmw4ysexe4it" points="1833.1,1627 1833.1,1955 1833.1,2043 1833.1,2179.1"/><polyline id="g1-mmw4yt0p4dbb" points="1833.1,1955 1833.1,2043"/><polyline id="g1-mmw4yt33idwz" points="1833.1,2043 1633,2043"/><polyline id="g1-mmw4ytikn346" points="2016.8,2179 2019,1955"/><polyline id="g1-mmw4yuz08qcl" points="2603,1978.3 2407,1978.3"/><polyline id="g1-mmw6310fdklx" points="540.3,3017 564.2,3177"/><polyline id="g1-mmw63135z3kq" points="564.2,3177 763.7,3240.3"/><polyline id="g1-mmw6317pvm0a" points="1001.2,3002.8 775.9,2781.4"/><polyline id="g1-mmw633tri2zs" points="702.7,2498.4 775.9,2781.4"/><polyline id="g1-mmw635sl1j5j" points="702.7,2498.4 1064.3,2493"/><polyline id="g1-mmw6393gma6f" points="564.2,3177 560.4,3311.5"/><polyline id="g1-mmw6396cc7cu" points="564.2,3177 457.5,3202.6"/><polyline id="g1-mmw639o7svqz" points="382.7,2923.6 540.3,3017"/></g>
+  <g id="points" fill="#e53935" stroke="none">
+    <circle id="g1-lift" cx="702.7" cy="2342.1" r="10" data-type="lift" data-label="Лифтовый холл" data-link="lift-g" data-default="1"/>
+    <circle id="g1-stairs-1" cx="520.6" cy="2457" r="10" data-type="stairs" data-label="Лестница западная" data-link="stairs-g-1"/>
+    <circle id="g1-stairs-2" cx="2623.9" cy="2277" r="10" data-type="stairs" data-label="Лестница восточная" data-link="stairs-g-2"/>
+    <circle id="g1-kiosk" cx="564.2" cy="3177" r="10" data-type="here" data-label="Инфодисплей у турникетов"/>
+  </g>
+</svg>

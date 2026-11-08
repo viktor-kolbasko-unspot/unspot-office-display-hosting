@@ -1,0 +1,98 @@
+{
+  "format": "unspot-navpack/1",
+  "packId": "goldapple-germes",
+  "revision": 3,
+  "source": "Графы из прототипа «Навигация на дисплее» от 06.11.2026 без изменений",
+  "company": {
+    "domain": "goldapple"
+  },
+  "buildings": [
+    {
+      "unspotId": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "code": "GERM",
+      "name": "Сакко и Ванцетти, 62 ТЦ «Гермес»",
+      "city": "Екатеринбург",
+      "geo": {
+        "lat": 56.838,
+        "lon": 60.6
+      }
+    }
+  ],
+  "floors": [
+    {
+      "unspotId": "16299ed3-9584-4c8a-970a-d484df48a1f7",
+      "unspotName": "Гермес 1 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 1,
+      "file": "floors/germes-1-etazh.svg",
+      "plan": {
+        "width": 3611,
+        "height": 3838
+      }
+    },
+    {
+      "unspotId": "5e76aa35-49c3-4ddb-9bff-229408ce6e40",
+      "unspotName": "Гермес 2 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 2,
+      "file": "floors/germes-2-etazh.svg",
+      "plan": {
+        "width": 3780,
+        "height": 3878
+      }
+    },
+    {
+      "unspotId": "e1c9d3e9-da52-42e9-afb2-94e14180cd44",
+      "unspotName": "Гермес 3 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 3,
+      "file": "floors/germes-3-etazh.svg",
+      "plan": {
+        "width": 3869,
+        "height": 1954
+      }
+    },
+    {
+      "unspotId": "fed4c4f9-7130-4644-8f07-0e1e37bb8cf1",
+      "unspotName": "Гермес 4 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 4,
+      "file": "floors/germes-4-etazh.svg",
+      "plan": {
+        "width": 3964,
+        "height": 2190
+      }
+    },
+    {
+      "unspotId": "6e62d016-ce8a-4de7-b45b-d158ae71f2be",
+      "unspotName": "Гермес 5 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 5,
+      "file": "floors/germes-5-etazh.svg",
+      "plan": {
+        "width": 3964,
+        "height": 2190
+      }
+    },
+    {
+      "unspotId": "dcd73caf-5c11-480f-bd22-dc8ec3925c6b",
+      "unspotName": "Гермес 6 этаж",
+      "building": "93f1ef97-1827-4f18-9dc0-8fb0c47f7ce2",
+      "level": 6,
+      "file": "floors/germes-6-etazh.svg",
+      "plan": {
+        "width": 3029,
+        "height": 2058
+      }
+    }
+  ],
+  "displays": [
+    {
+      "id": "germes-1-turnstiles",
+      "floor": "Гермес 1 этаж",
+      "here": "g1-kiosk",
+      "label": "Инфодисплей у турникетов",
+      "device": "Display"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3869" height="1954" viewBox="0 0 3869 1954" data-unspot-routes="1" data-level="3" data-snap="6" data-meters-per-px="0.0144">
+  <!-- Гермес 3 этаж: граф построен по карте этажа: прямые полосы по свободному полу между нарисованными предметами и столами -->
+  <g id="routes" fill="none" stroke="#1e88e5" stroke-width="6" stroke-linecap="round">
+    <polyline id="g3-e1" points="2433,791 2433,775 2241,775"/>
+    <polyline id="g3-e2" points="2433,791 2583,791"/>
+    <polyline id="g3-e3" points="2433,791 2433,875"/>
+    <polyline id="g3-e4" points="2433,875 2433,1259.2"/>
+    <polyline id="g3-e5" points="2433,875 2647,875"/>
+    <polyline id="g3-e6" points="393,1133 393,1342.7 393,1625 583,1625"/>
+    <polyline id="g3-e7" points="393,1133 393,935 421,935"/>
+    <polyline id="g3-e8" points="393,1133 907.9,1133"/>
+    <polyline id="g3-e9" points="801,517 995,517 995,537 1053,537"/>
+    <polyline id="g3-e10" points="801,517 801,321 939,321 939,433 825,433"/>
+    <polyline id="g3-e11" points="801,517 691,517"/>
+    <polyline id="g3-e12" points="691,517 543,517 543,441"/>
+    <polyline id="g3-e13" points="691,517 691,391"/>
+    <polyline id="g3-e14" points="1347,1061 1347,1301"/>
+    <polyline id="g3-e15" points="1347,1301 1361.8,1337 1539,1337"/>
+    <polyline id="g3-e16" points="1347,1301 1155,1301 1155,867 953,867"/>
+    <polyline id="g3-e17" points="723,321 573,321 573,397 543,397 543,432.4 543,441"/>
+    <polyline id="g3-e18" points="2541,407 2541,311 2405,311 2405,469"/>
+    <polyline id="g3-e19" points="2794.9,815 2647,815"/>
+    <polyline id="g3-e20" points="2647,815 2647,725 2871,725 2871,679 2989.5,679 3111,679"/>
+    <polyline id="g3-e21" points="2647,815 2647,875"/>
+    <polyline id="g3-e22" points="2647,875 2627,997 2627,1051"/>
+    
+    <polyline id="g3-e24" points="1505,1745 1418.1,1745 1361.8,1733"/>
+    <polyline id="g3-e25" points="547,621 547,809"/>
+    <polyline id="g3-e26" points="547,621 700.3,621 889,621"/>
+    <polyline id="g3-e27" points="547,621 421,621"/>
+    <polyline id="g3-e28" points="547,809 421,809 421,935"/>
+    <polyline id="g3-e29" points="547,809 700.3,809 811,809 811,867 953,867"/>
+    <polyline id="g3-e30" points="2563,1727.4 2563,1333 2431.2,1333 2241,1333"/>
+    <polyline id="g3-e31" points="767,1703 767,1733 583,1733 583,1625"/>
+    <polyline id="g3-e32" points="767,1703 983,1703"/>
+    <polyline id="g3-e33" points="767,1703 767,1343.7"/>
+    <polyline id="g3-e34" points="2437,1461 2437,1733"/>
+    <polyline id="g3-e35" points="2437,1733 2241,1733"/>
+    <polyline id="g3-e36" points="2437,1733 2437,1755 2593,1755 2693,1737"/>
+    <polyline id="g3-e37" points="1539,1337 1539,1724"/>
+    <polyline id="g3-e38" points="1539,1337 1539,761 1347,761"/>
+    <polyline id="g3-e39" points="1539,1337 1713,1337"/>
+    <polyline id="g3-e40" points="1713,1337 1713,760.3"/>
+    <polyline id="g3-e41" points="1713,1337 1713,1385 1745,1385 1745,1733 1933,1733"/>
+    <polyline id="g3-e42" points="3074.2,1023 2711,1023 2711,1051"/>
+    <polyline id="g3-e43" points="2241,1733 2053,1733"/>
+    <polyline id="g3-e44" points="2241,1733 2241,1333"/>
+    <polyline id="g3-e45" points="2241,1333 2241,775"/>
+    <polyline id="g3-e46" points="2053,1733 2053,1461"/>
+    <polyline id="g3-e47" points="2053,1733 1933,1733"/>
+    <polyline id="g3-e48" points="953,1281 953,1132.1 953,934.8 953,867"/>
+    <polyline id="g3-e49" points="421,935 811,934.8 953,934.8"/>
+    <polyline id="g3-e50" points="1217.5,564.7 1287.9,553 1347.5,553"/>
+    <polyline id="g3-e51" points="1217.5,564.7 1053,537"/>
+    <polyline id="g3-e52" points="1053,537 1053,437 1077,437 1077,398.6 1077,291"/>
+    <polyline id="g3-e53" points="2929,1275 2737,1275"/>
+    <polyline id="g3-e54" points="2929,1275 3129,1275 3129,1505 3197,1505 3197,1473 3329,1473 3329,1283"/>
+    <polyline id="g3-e55" points="2929,1275 2929,1737 3126.3,1737"/>
+    <polyline id="g3-e56" points="2737,1275 2737,1159 2711,1159 2711,1051"/>
+    <polyline id="g3-e57" points="2737,1275 2737,1539"/>
+    <polyline id="g3-e58" points="1187,1703 1187,1733 1361.8,1733"/>
+    <polyline id="g3-e59" points="1187,1703 983,1703"/>
+    <polyline id="g3-e60" points="1187,1703 1187,1338.6"/>
+    <polyline id="g3-e61" points="1361.8,1733 1361.8,1533.8"/>
+    <polyline id="g3-e62" points="583,1625 583,1359"/>
+    <polyline id="g3-e63" points="2241,647 1311,647 1347.5,553"/>
+    <polyline id="g3-e64" points="2241,647 2241,775"/>
+    <polyline id="g3-e65" points="2241,647 2241,621 2405,621 2405,469"/>
+    <polyline id="g3-e66" points="1347.5,553 2215,553 2215,447 2161,447"/>
+    <polyline id="g3-e67" points="2097,447 2161,447"/>
+    <polyline id="g3-e68" points="2161,447 2161,291 2087,291"/>
+    <polyline id="g3-e69" points="2627,1276.6 2627,1051"/>
+    <polyline id="g3-e70" points="2627,1051 2711,1051"/>
+    <polyline id="g3-e71" points="1933,1733 1933,1328.7"/>
+    <polyline id="g3-e72" points="2405,469 2471.5,469 2558.2,469 2641.7,469 2689.8,469 2719,469 2807.5,469"/>
+    <polyline id="g3-e73" points="983,1345.7 983,1703"/>
+    <polyline id="g3-e74" points="1771,761 1925,761 1925,1285 1933,1285 1933,1328.7"/>
+    <polyline id="g3-e75" points="3275,1283 3329,1283"/>
+    <polyline id="g3-e76" points="3329,1283 3361,1283"/>
+    <polyline id="g3-e77" points="2049,760.3 2049,1328.7 1933,1328.7"/>
+    <polyline id="g3-e78" points="1017,291 1077,291"/>
+    <polyline id="g3-e79" points="1077,291 1181,291"/>
+    <polyline id="g3-e80" points="543,441 275.8,441"/>
+    <polyline id="g3-e81" points="1044.7,398.6 1077,398.6"/>
+    <polyline id="g3-e82" points="578,432.4 543,432.4"/>
+    <polyline id="g3-e83" points="2989.5,717.1 2989.5,679"/>
+  <polyline id="g3-mmw4zo0jnf3j" points="2807.5,469 2719,469 2641.7,469 2558.2,469 2471.5,469"/><polyline id="g3-mmw4zo1nw03i" points="2471.5,469 2471.5,608"/><polyline id="g3-mmw4zo9axmwb" points="2558.2,469 2558.2,594"/><polyline id="g3-mmw4zoh2i7b7" points="2641.7,469 2641.7,604.8"/><polyline id="g3-mmw4zony7ohv" points="2719,469 2719,561.4"/><polyline id="g3-mmw4zpg42u79" points="2644.2,391.3 2641.7,469"/><polyline id="g3-mmw4zps172ym" points="2719,469 2719,385.9"/><polyline id="g3-mmw4zqe434pq" points="3111,679 3111,757.6"/><polyline id="g3-mmw4zqo62mba" points="3111,757.6 3023.6,757.6"/><polyline id="g3-mmw4zqr5zz2g" points="3023.6,757.6 2939,757.6"/><polyline id="g3-mmw4zquca3x3" points="2939,757.6 2871,725"/><polyline id="g3-mmw4zr4dv0s6" points="2647,725 2583,791"/><polyline id="g3-mmw4zr74h5vt" points="2583,791 2647,815"/><polyline id="g3-mmw4zrbg043o" points="2647,815 2433,875"/><polyline id="g3-mmw4zrcet2lc" points="2433,875 2583,791"/><polyline id="g3-mmw4zrd63a0j" points="2583,791 2647,875"/><polyline id="g3-mmw4zrhk0ayn" points="2647,875 2627,997"/><polyline id="g3-mmw4zslyyet0" points="2627,1276.6 2737,1275"/><polyline id="g3-mmw4zspzdv5w" points="2627,1276.6 2563,1333"/><polyline id="g3-mmw4zt06zfwx" points="2433,1259.2 2431.2,1333"/><polyline id="g3-mmw4zt839g7n" points="2433,1259.2 2627,1276.6"/><polyline id="g3-mmw4zt9sc1vw" points="2627,1276.6 2431.2,1333"/><polyline id="g3-mmw4ztey3bni" points="2433,1259.2 2563,1333"/><polyline id="g3-mmw4ztkchpwd" points="2431.2,1333 2437,1461"/><polyline id="g3-mmw4ztxwhawy" points="2563,1727.4 2593,1755"/><polyline id="g3-mmw4zu0phw7w" points="2593,1755 2693,1737"/><polyline id="g3-mmw4zu2d5w00" points="2693,1737 2734.8,1737 2929,1737"/><polyline id="g3-mmw4zu65qv1g" points="2929,1737 2734.8,1737"/><polyline id="g3-mmw4zu8duxtd" points="2734.8,1737 2737,1539"/><polyline id="g3-mmw4zuiolilq" points="3129,1505 3126.3,1737"/><polyline id="g3-mmw4zuys8zy8" points="2241,1333 2049,1328.7"/><polyline id="g3-mmw4zuzxfqhx" points="2049,1328.7 2053,1461"/><polyline id="g3-mmw4zva1t8h1" points="1933,1328.7 1713,1337"/><polyline id="g3-mmw4zvg1y5zr" points="1539,1724 1745,1733"/><polyline id="g3-mmw4zvk7htoa" points="1505,1745 1539,1724"/><polyline id="g3-mmw4zw22jah5" points="1361.8,1533.8 1361.8,1337"/><polyline id="g3-mmw4zwupzlc0" points="953,1281 983,1345.7"/><polyline id="g3-mmw4zwvzchai" points="983,1345.7 1187,1338.6"/><polyline id="g3-mmw4zwwne0eh" points="1187,1338.6 1155,1301"/><polyline id="g3-mmw4zx3bncln" points="1187,1338.6 1361.8,1337"/><polyline id="g3-mmw4zxd9j2xz" points="583,1359 393,1342.7"/><polyline id="g3-mmw4zxh5tfv8" points="583,1359 767,1343.7"/><polyline id="g3-mmw4zxi43haz" points="767,1343.7 983,1345.7"/><polyline id="g3-mmw4zxz6wjo6" points="907.9,1133 953,1132.1"/><polyline id="g3-mmw4zyigc3b7" points="953,934.8 811,934.8"/><polyline id="g3-mmw4zymqjbm0" points="811,934.8 811,867"/><polyline id="g3-mmw4zz7y8jvd" points="889,621 937.4,809 953,867"/><polyline id="g3-mmw4zzh9cp91" points="421,621 421,809"/><polyline id="g3-mmw4zzwbz3tm" points="700.3,621 700.3,809"/><polyline id="g3-mmw5008d7om5" points="811,809 937.4,809"/><polyline id="g3-mmw501bhhta6" points="1347,1061 1347,867 1347,761"/><polyline id="g3-mmw501juufdg" points="1347,867 1155,867"/><polyline id="g3-mmw501v6rdq2" points="1713,760.3 1539,761"/><polyline id="g3-mmw501zbtejf" points="1713,760.3 1771,761"/><polyline id="g3-mmw5024vcyb7" points="1925,761 2049,760.3"/><polyline id="g3-mmw5029523ww" points="2049,760.3 2241,775"/></g>
+  <g id="points" fill="#e53935" stroke="none">
+    <circle id="g3-lift" cx="1044.7" cy="398.6" r="10" data-type="lift" data-label="Лифтовый холл" data-link="lift-g" data-default="1"/>
+    <circle id="g3-stairs-1" cx="578" cy="432.4" r="10" data-type="stairs" data-label="Лестница западная" data-link="stairs-g-1"/>
+    <circle id="g3-stairs-2" cx="2989.5" cy="717.1" r="10" data-type="stairs" data-label="Лестница восточная" data-link="stairs-g-2"/>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 {
   "format": "unspot-navpack-catalog/1",
-  "builtAt": "2026-11-08T05:52:37.530Z",
+  "builtAt": "2026-11-08T06:17:35.033Z",
   "clients": [
     {
       "domain": "goldapple",
@@ -8,7 +8,7 @@
         {
           "packId": "goldapple-germes",
           "revision": 3,
-          "builtAt": "2026-11-08T05:52:37.519Z",
+          "builtAt": "2026-11-08T06:17:35.026Z",
           "sha256": "d08ec5d383d296fa1001b6ba9b72b820ad1cd5f0471623c0c27590e2c5894361",
           "buildings": [
             {
